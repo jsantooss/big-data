@@ -34,7 +34,7 @@ Redis is more versatile (but pays a tiny speed tax).
 
 Full breakdown in the article—because science demands proof!
 
-# 🙏 Credits & Thanks
+# Credits & Thanks
 Researcher: [João Santos] 👨‍💻
 
 Academic: Prof. Dr. Jorge Bernardino (for keeping us honest). 🎓
